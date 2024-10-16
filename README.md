@@ -2,7 +2,7 @@
 Esse repositório trata do Curso Formação Engenharia de Dados: Domine Big Data! da Udemy do Professor Fernando Amaral.
 <br>
 <br>
-O repositório conta com as pastas indicando as unidades do curso, junto com os slides e scripts de desenvolimento práticos realizados.
+O repositório conta com as pastas indicando as unidades do curso, junto com os slides e scripts de desenvolvimento práticos realizados.
 <br>
 <h2>O que é abordado no curso:</h2>
 <ul>
