@@ -1,6 +1,9 @@
 # Formacao_Engenheiro_De_Dados
-Esse repositório trata do Curso Formação Engenharia de Dados: Domine Big Data! da Udemy do Professor Fernando Amaral.<br>
-O reposutório conta com as pastas indicando as unidades do curso, junto com os slides e scripts de desenvolimento práticos realizados.<br>
+Esse repositório trata do Curso Formação Engenharia de Dados: Domine Big Data! da Udemy do Professor Fernando Amaral.
+<br>
+<br>
+O reposutório conta com as pastas indicando as unidades do curso, junto com os slides e scripts de desenvolimento práticos realizados.
+<br>
 <h2>O que é abordado no curso:</h2>
 <ul>
   <li>Engenharia de Dados com Python</li>
@@ -16,5 +19,6 @@ O reposutório conta com as pastas indicando as unidades do curso, junto com os 
   <li>Data Warehouse Moderno</li>
   <li>Modelo de banco de dados Dimensional</li>
   <li>Linguagem SQL</li>
-</ul><br>
+</ul>
+<br>
 <h2>Projeto Final I</h2>
